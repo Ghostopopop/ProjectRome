@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "46584e5ce3582921",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac558d6af2b6b1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbbc2b15ecd2eb0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f344646181f5c3ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "konichiwa(cpp)/main.c++.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e0d8130457061af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d65e7796bd71e073",
+    "type": "split",
+    "children": [
+      {
+        "id": "d770b320cc3219a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3562032489e8070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1cd45ffdd335c4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac42db77b8b3be16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8177baf647762ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b4f8a0d794913c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9552efe902597c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ebf72c7816523bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58b505890fb4f6c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ae292e173ae5ad5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8e0d8130457061af",
+  "lastOpenFiles": [
+    "konichiwa(cpp)/main.c++.md",
+    "README.md",
+    "konichiwa(cpp)/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf",
+    "ProjectRome",
+    "konichiwa(cpp)/pointers_reffrence.png",
+    "konichiwa(cpp)/konichiwa.cpp",
+    "konichiwa(cpp)/c++sc2.cpp",
+    "konichiwa(cpp)/c++sc1.cpp",
+    "konichiwa(cpp)/c++pointers.cpp",
+    "konichiwa(cpp)/c++fp2.cpp",
+    "konichiwa(cpp)/c++fp1.cpp",
+    "konichiwa(cpp)/c++arrays.cpp",
+    "konichiwa(cpp)"
+  ]
+}
