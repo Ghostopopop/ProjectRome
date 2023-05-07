@@ -1,4 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "Dark Moss"
+  "accentColor": "#1f0085",
+  "cssTheme": "Dark Moss",
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }
