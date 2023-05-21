@@ -6,5 +6,6 @@
 [[c++sc2.cpp]]
 [[konichiwa.cpp]]
 [[pointers_reffrence.png]]
-[[c++fn1.cpp]]
-[[c++fn2.cpp]]
+
+
+

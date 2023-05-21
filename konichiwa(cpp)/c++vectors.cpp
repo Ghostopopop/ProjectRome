@@ -50,7 +50,7 @@ int main()
         cout << num << " ";
     }
     cout << endl;
-    // test
+
     //. Removing all elements from the vector
     cout << "Removing all elements from the vector..." << endl;
     numbers.clear(); //. Removes all elements from the vector
